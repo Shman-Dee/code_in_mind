@@ -47,6 +47,8 @@ This is a full stack app using the MERN stack along with Graphql. Admin users ca
   
   ## Usage
 
+   <a href="https://codeinmind.herokuapp.com/">Link to live app</a>
+
 ![!Code_in_Mind](img/courses.png)
 
 A user can go to the site and click on Courses in the navbar to see which courss are available. To enroll in a course, the user must login or create an account. Once logged in the user can go back to courses and click the link to see more information then the user will see a button "Enroll in Course". If the user click this button they will be automatically enroled and redirected back to their dashboard page where all courses they are enrolled in will be displayed. On the user's dashboard there will also be a button to drop the course.

@@ -52,7 +52,7 @@ export default function Profile(props) {
         </Typography>
         {/* Read More */}
         <Box sx={{ display: "flex", flexDirection: "column" }}>
-          {more ? short : props.summary}
+          {/* {more ? short : props.summary} */}
           <div
             style={{
               display: "flex",
